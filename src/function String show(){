@@ -1,5 +1,0 @@
-
-
-function String show(){
-	return "Narendra";
-}
